@@ -1,0 +1,30 @@
+{
+  "name": "nodejwtauth",
+  "version": "1.0.0",
+  "description": "Building Node Api with Jwt Authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jewel-rana/node-api-with-jwt-authentication.git"
+  },
+  "keywords": [
+    "Node",
+    "JWT",
+    "authentication",
+    "Nodejs",
+    "Api"
+  ],
+  "author": "Jewel Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jewel-rana/node-api-with-jwt-authentication/issues"
+  },
+  "homepage": "https://github.com/jewel-rana/node-api-with-jwt-authentication#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
